@@ -3,6 +3,9 @@ A script to concatenate DNA sequences horizontally.
 The first fasta sequence from file 1 will be concatenated with the first sequence from file 2, the second with the second etc. 
 Dumps the resulting fasta entries onto the screen. The results can be redirected to a file.
 
+Requires the Biopython package. It can be installed by running the command "pip install biopython". (pip3 for Python 3). For more information, go to https://biopython.org
+
+
 Needs two files as input. Includes a test example. 
 
 Example of usage: 
